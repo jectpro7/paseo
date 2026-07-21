@@ -1,0 +1,25 @@
+docs/providers.md
+  s_a7407a08e166fe::t_b7121628fb6bbc 11
+packages/server/src/server/agent/providers/acp-agent.test.ts
+  s_a7407a08e166fe::t_95874c4e401bfb 2384-2453
+packages/server/src/server/agent/providers/acp-agent.ts
+  s_a7407a08e166fe::t_38d8f5a41d7710 455,1334,2011-2012,2020-2044,2548-2550,2813,2816-2817,2819,3142-3148,3156,3162-3163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "947872d0a824e524d2616b7199fc86d47d85443b",
+  "prompts": {},
+  "sessions": {
+    "s_a7407a08e166fe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f848d-5585-7133-bb05-915a76d30b06",
+        "model": "unknown"
+      },
+      "human_author": "pujie <pujie@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
