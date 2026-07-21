@@ -1,0 +1,21 @@
+docs/providers.md
+  s_a7407a08e166fe::t_311b64fa68ef39 11-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "94e8ec13d8b062b8f1f3b39a50074c40d25ce129",
+  "prompts": {},
+  "sessions": {
+    "s_a7407a08e166fe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f848d-5585-7133-bb05-915a76d30b06",
+        "model": "unknown"
+      },
+      "human_author": "pujie <pujie@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
